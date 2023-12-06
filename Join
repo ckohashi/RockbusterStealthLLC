@@ -1,4 +1,4 @@
---Joining tables to find the top 5 revenue generating customers in the top 10 countries with the most amount of customers.
+--Joining tables to find the top 5 revenue generating customers in the top 10 cities from countries with the most amount of customers.
 
 SELECT A.customer_id, B.first_name, B.last_name, D.city, E.country, SUM(A.amount) AS total_amount_paid
 FROM payment A
