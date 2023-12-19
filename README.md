@@ -1,5 +1,5 @@
 # RockbusterStealthLLC Analysis
-Rockbuster Stealth LLC is a movie rental company that used to have physical stores around the world. The company plans to launch an online video rental platform to compete with other streaming services.
+Rockbuster Stealth LLC is a fictional movie rental company that used to have physical stores around the world. The company plans to launch an online video rental platform to compete with other streaming services.
 ## Objective
 Working with Rockbuster Stealth LLC's business intelligence department, the objective is to help with the launch strategy for the new online video rental service. This project involves using SQL to retrieve and analyze data from Rockbuster Stealth LLC's relational database.
 ## Data
